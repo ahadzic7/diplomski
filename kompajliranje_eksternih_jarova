@@ -1,0 +1,13 @@
+javac -cp ".;.\log4j14\*" Gday.java
+
+
+javac -cp ".;.\log4j14\log4j-api-2.14.1.jar;\log4j14\log4j-core-2.14.1.jar;\log4j14\*;." Gday.java
+
+java -cp ".;.\log4j14\log4j-api-2.14.1.jar;\log4j14\log4j-core-2.14.1.jar;\log4j14\*;." Gday fioehfoie
+
+------------------------------------------------------------
+ovo radiiiii
+
+javac -cp ".;.\log4j14\log4j-api-2.14.1.jar;" Gday.java
+
+java -cp ".;.\log4j14\log4j-api-2.14.1.jar;" Gday fioehfoie
